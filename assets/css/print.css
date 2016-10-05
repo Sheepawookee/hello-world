@@ -1,0 +1,19 @@
+/* CSS Document */
+
+nav {
+	display:none;
+}
+
+.hidden-print {
+	display:none;
+}
+
+.text-muted {
+	font-size: 11px;
+	color:#999999;
+}
+
+.col-sm-6 {
+	width: 50%;
+	float: left;
+}
